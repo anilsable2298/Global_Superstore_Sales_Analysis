@@ -13,7 +13,7 @@ The aim is to boost store's sales with help of previous years performance.The Gl
 * ISNUMBER
 * ISTEXT
 ## Dashboard
-![image](https://github.com/anilsable2298/Global_Superstore_Sales_Analysis/assets/146058365/e47ee77b-8697-4725-b33c-57e5690e0de3)
+![image](https://github.com/anilsable2298/Global_Superstore_Sales_Analysis/assets/146058365/c7242685-23e3-4924-9e25-c0410cab4d27)
 
 ## Key Insights
 * The United States is at the top rank according to highest total Sales.
