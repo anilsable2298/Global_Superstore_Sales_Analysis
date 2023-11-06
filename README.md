@@ -4,11 +4,9 @@ Global SuperStore Dashboard is a powerful and visually appealing business intell
 The aim is to boost store's sales with help of previous years performance.The Global SuperStore Dashboard is a comprehensive business intelligence tool that provides valuable insights into sales performance and customer behaviour. It enables businesses to make data-driven decisions and improve their sales and marketing strategies.
  ## DAX Functions Followed 
 
-* Average
-* SUM
+* AVERAGE 
 * SUMX
 * DISTINCTCOUNT
-* COUNT
 * ISBLANK
 * ISNUMBER
 * ISTEXT
