@@ -15,6 +15,7 @@ The aim is to boost store's sales with help of previous years performance.The Gl
 
 ## Key Insights
 * Total sales accounted for $ 12 million over a period from 2012 to 2015.
+* The consumer purchase more compared to corporate and home office.
 * Total Quantity of product is 178K.
 * The United States is at the top rank according to highest total Sales.
 * Category 'Office Supplies' has the maximum profit.
