@@ -14,8 +14,9 @@ The aim is to boost store's sales with help of previous years performance.The Gl
 ![image](https://github.com/anilsable2298/Global_Superstore_Sales_Analysis/assets/146058365/c7242685-23e3-4924-9e25-c0410cab4d27)
 
 ## Key Insights
+* Total sales accounted for $ 12 million over a period from 2012 to 2015.
+* Total Quantity of product is 178K.
 * The United States is at the top rank according to highest total Sales.
 * Category 'Office Supplies' has the maximum profit.
-* Total sales accounted for $ 12 million over a period from 2012 to 2015.
 * Overall Average delivery time is 4 days.
 * A total of 1079 orders have been returned.
